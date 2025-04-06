@@ -1,4 +1,4 @@
-<h2>0. Android Studio에 Flutter세팅</h2>
+## 0. Android Studio에 Flutter세팅
 
 ```markdown
 1.  Flutter SDK 설치
