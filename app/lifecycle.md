@@ -12,7 +12,7 @@
 ### 생명주기 확인 실습 코드
 firstPage 실행 했을 때
 
-![poster](app/img/firstpage.png)
+![poster](https://raw.githubusercontent.com/MuJuka/TIL/main/app/img/firstpage.png)
 
 secondpage 실행 했을 때
 
