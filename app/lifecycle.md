@@ -12,15 +12,15 @@
 ### 생명주기 확인 실습 코드
 firstPage 실행 했을 때
 
-![poster](./app/img/firstpage.png)
+![poster](app/img/firstpage.png)
 
 secondpage 실행 했을 때
 
-![poster](./app/img/secondpage.png)
+![poster](app/img/secondpage.png)
 
 firstpage로 되돌아 갈 떄
 
-![poster](./app/img/image.png)
+![poster](app/img/image.png)
 ```dart
 import 'package:flutter/material.dart';
 
