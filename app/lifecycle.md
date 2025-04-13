@@ -16,11 +16,12 @@ firstPage 실행 했을 때
 
 secondpage 실행 했을 때
 
-![poster](app/img/secondpage.png)
+![poster](https://raw.githubusercontent.com/MuJuka/TIL/main/app/img/secondpage.png)
+
 
 firstpage로 되돌아 갈 떄
 
-![poster](app/img/image.png)
+![poster](https://raw.githubusercontent.com/MuJuka/TIL/main/app/img/image.png)
 ```dart
 import 'package:flutter/material.dart';
 
